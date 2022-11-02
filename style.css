@@ -6,7 +6,7 @@
 body{
     background-color: rgb(15, 15, 15);
     color: azure;
-    font-size: 15px;
+    font-size: 0.938em;
 }
 
 header{
@@ -15,31 +15,31 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px;
+    padding: 0.938em;
 }
 
 .ul{
     font-size: 17;
     list-style: none;
     display: inline-flex;
-    gap: 15px;
+    gap: 0.938em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-right: 50px;
+    margin-right: 3.125em;
 }
 
 .p{
     display: flex;
-    font-size: 45px;
+    font-size: 2.813em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-right: 300px;
+    margin-right: 5.75em;
     cursor: pointer;
 }
 
 .mundo{
     display: flex;
-    width: 90px;
+    width: 5.625em;
     height: auto;
-    border-radius: 100px;
+    border-radius: 6.25em;
     cursor: pointer;
 }
 nav{
@@ -56,8 +56,8 @@ li{
 
 
 h1{
-    padding: 12px;
-    margin: 20px;
+    padding: 0.75em;
+    margin: 1.25em;
     text-align: center;
     cursor: pointer;
 }
@@ -65,18 +65,18 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;  
-    margin-top: 33px;
-    margin-bottom: 33px;
+    margin-top: 2.063em;
+    margin-bottom: 2.063em;
 }
 iframe{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 33px;
-    margin-bottom: 33px;
+    margin-top: 2.063em;
+    margin-bottom: 2.063em;
 }
 .messichiquito{
-    width: 400px;
+    width: 25em;
     height: auto;
     display: block;
     margin-left: auto;
@@ -84,23 +84,23 @@ iframe{
 }
 
 .texto{
-    margin-left: 80px;
-    margin-right: 80px;
-    padding: 10px;
-    font-size: 20px;
+    margin-left: 5em;
+    margin-right: 5em;
+    padding: 0.625em;
+    font-size: 1.25em;
 }
 
 h2{
     text-align: center;
-    margin: 21px;
-    font-size: 25px;
-    margin: 30px;
+    margin: 1.313em;
+    font-size: 1.563em;
+    margin: 1.875em;
 }
 
 footer{
     background-color: black;
     display: flex;
-     padding: 10px;
+     padding: 0.625em;
     justify-content: center;
     align-items: center; 
      
@@ -110,22 +110,22 @@ footer{
 .fooy{
     display: flex;
     flex-direction: column;
-    padding: 10px;
+    padding: 0.625em;
 }
 
 .foot{
-    height: 30px;
+    height: 1.875em;
 }
 
 .ulfoot{
     display: flex;
     flex-direction: column;
-    gap: 70px;
+    gap: 4.375em;
     list-style: none;
 }
 
 .america{
-    width: 400px;
+    width: 25em;
     padding: auto;
 }
 
