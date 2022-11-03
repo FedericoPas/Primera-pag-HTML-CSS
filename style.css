@@ -74,6 +74,7 @@ li:hover{
    justify-content: center;
    align-items: center;
    margin-top: 30px;
+   
 }
 
 .main-hero{
@@ -161,120 +162,4 @@ footer{
 
 
 
-
-
-/* .p{
-    font-size: 2.813em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    cursor: pointer;
-    min-width: 700px; 
-}
-
-.mundo{
-    display: flex;
-    width: 5.625em;
-    height: auto;
-    border-radius: 6.25em;
-    cursor: pointer;
-}
-
-.ul{
-    font-size: 17;
-    list-style: none;
-    display: inline-flex;
-    gap: 0.938em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-right: 3.125em;
-}
-
-
-
-
-nav{
-    list-style: none;
-    display:inline-flex;
-}
-
-li:hover{
-    transform: scale(1.2);
-}
-li{
-    cursor: pointer;
-}
-
-
-h1{
-    padding: 0.75em;
-    margin: 1.25em;
-    text-align: center;
-    cursor: pointer;
-}
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;  
-    margin-top: 2.063em;
-    margin-bottom: 2.063em;
-}
-iframe{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 2.063em;
-    margin-bottom: 2.063em;
-}
-.messichiquito{
-    width: 25em;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.texto{
-    margin-left: 5em;
-    margin-right: 5em;
-    padding: 0.625em;
-    font-size: 1.25em;
-    min-width: 600px;
-}
-
-h2{
-    text-align: center;
-    margin: 1.313em;
-    font-size: 1.563em;
-    margin: 1.875em;
-}
-
-footer{
-    background-color: black;
-    display: flex;
-     padding: 0.625em;
-    justify-content: center;
-    align-items: center; 
-     
-    
-}
-
-.fooy{
-    display: flex;
-    flex-direction: column;
-    padding: 0.625em;
-}
-
-.foot{
-    height: 1.875em;
-}
-
-.ulfoot{
-    display: flex;
-    flex-direction: column;
-    gap: 4.375em;
-    list-style: none;
-}
-
-.america{
-    width: 25em;
-    padding: auto;
-} */
 
